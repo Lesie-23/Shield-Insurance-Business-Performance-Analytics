@@ -1,4 +1,4 @@
-# Shield Insurance-Business Performance Analytics
+# Shield Insurance — Business Performance Analytics Dashboard
 
 ## 🏢 Company Overview
 
@@ -46,23 +46,23 @@ fact_premiums
 
 fact_settlements
 
-## Data Model:
+## 📊 Data Model
 
 <img width="1062" height="672" alt="image" src="https://github.com/user-attachments/assets/014cb878-497d-499e-a2bb-c5efe7728c61" />
 
-## Home Page
+## 🏠 Home Page
 
 <img width="1433" height="806" alt="Home page" src="https://github.com/user-attachments/assets/3ac0c967-0e58-44d4-83d0-a9d5c940a608" />
 
-## Overview
+## 📈 Overview
 
 <img width="1431" height="804" alt="Overview page" src="https://github.com/user-attachments/assets/efa2083f-9362-4c8a-be32-b4baab85d178" />
 
-## Sales Mode view
+## 🧑‍💼 Sales Mode view
 
 <img width="1434" height="806" alt="Sales Mode page" src="https://github.com/user-attachments/assets/979659fc-8f00-4d34-81a4-6e381e95b3d8" />
 
-## Age Group View
+## 👥 Age Group View
 
 <img width="1431" height="804" alt="Age group page" src="https://github.com/user-attachments/assets/dfcdb146-9244-49da-8180-4bcc9c21221e" />
 
