@@ -6,7 +6,7 @@ Shield Insurance is a general insurance provider focused on delivering customer-
 
 ## 🚩 Problem Statement
 
-Leadership at Shield Insurance required a unified analytics solution to better understand overall business health and revenue performance. Existing reports did not provide a consolidated view of:
+Management at Shield Insurance required a unified analytics solution to better understand overall business health and revenue performance. Existing reports did not provide a consolidated view of:
 
 ●  Revenue performance trends
 
