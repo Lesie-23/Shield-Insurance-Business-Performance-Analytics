@@ -102,9 +102,12 @@ fact_settlements
 
 ●  How to design visuals that answer leadership-level questions
 
-This project helped me move beyond just “building dashboards” and start thinking like a business analyst — defining the right KPIs, structuring the data correctly, and designing visuals that support real decision-making.
+This project helped me move beyond just building dashboards and start thinking like an analyst, focusing on defining the right KPIs, structuring the data correctly, and designing visuals that support real decision-making.
 
 
+## Links
+
+## **[Live Dashboard](https://app.powerbi.com/groups/me/reports/99dcb080-8d0a-4f3b-b0cb-300d80d7ef1c/75113cf0c0a080eb2924?experience=power-bi)**
 
 
 
