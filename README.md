@@ -68,7 +68,7 @@ fact_settlements
 
 ## ⭐ Key Insights
 
-●  The business generated ₹989.25M in total revenue from 26.84K customers, with an average revenue of ₹36.86K per customer, supported by steady daily growth indicators.
+●  The business generated ₹989.25M in total revenue from 26.84K customers, with an average revenue of ₹36.86K per customer.
 
 ●  March 2023 recorded the strongest business performance, contributing 82.3% of total customers and 85% of total revenue, followed by a slowdown in April where customers declined by 41.4% and revenue fell by 41.7%.
 
