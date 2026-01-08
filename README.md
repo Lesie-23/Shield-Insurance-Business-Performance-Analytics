@@ -68,39 +68,37 @@ fact_settlements
 
 ## ⭐ Key Insights
 
-●  The business generated ₹989.25M in total revenue from 26.84K customers, with an average revenue of ₹36.86K per customer.
+● The business generated ₹989.25M in total revenue from 26.84K customers, with an average revenue of ₹36.86K per customer.
 
-●  March 2023 recorded the strongest business performance, contributing 82.3% of total customers and 85% of total revenue, followed by a slowdown in April where customers declined by 41.4% and revenue fell by 41.7%.
+● March 2023 recorded the strongest business performance, contributing 82.3% of total customers and 85.0% of total revenue. This was followed by a slowdown in April, where customers declined by 41.4% and revenue fell by 41.7%, indicating volatility in business momentum.
 
-● Delhi NCR and Mumbai contribute the highest share of both customers and revenue, making them the strongest performing business regions.
+● Delhi NCR and Mumbai contribute the largest share of both customers and revenue, making them key performance-driving regions, but also creating dependency on a small number of major markets.
 
-●  Offline-Agent remains the leading sales channel, contributing more than 55% of total revenue, while the Online-Website channel contributes only ~12.6%, reflecting higher trust in agent-assisted policy purchasing.
+● Offline-Agent sales remain the dominant channel, contributing more than 55% of total revenue, while the Online-Website channel contributes only ~12.6%. This reflects strong trust in agent-assisted purchasing, but also limited digital scale.
 
-●  Around 61–67% of total revenue comes from the Top 3 policies, with POL2005HEL being the strongest performer across channels and age groups, while POL4321HEL shows the lowest adoption and revenue contribution.
+● Around 61–67% of total revenue comes from the Top 3 policies, with POL2005HEL being the strongest performer across channels and age groups, while POL4321HEL remains the lowest revenue-generating policy, increasing product concentration risk.
 
-●  Customers aged 31–50 form the largest share of the customer base, while customers aged 51–64 and 65+ contribute a higher share of revenue due to higher-premium policy selections.
+● Customers aged 31–50 form the largest share of the customer base, while customers aged 51–64 and 65+ contribute a higher share of revenue due to selection of higher-premium policy plans.
 
 ## ✔ Recommendations
 
-●  Focus business expansion and marketing budget on Delhi NCR and Mumbai, where revenue impact is highest.
+● Maintain strong performance in Delhi NCR and Mumbai, while gradually lifting growth in secondary cities to reduce over-reliance on a few key regions.
 
-●  Continue strengthening Offline-Agent capability, as it remains the most trusted and productive channel.
+● Continue strengthening the Offline-Agent network while steadily improving the online purchase journey and channel conversion, so digital contribution increases without losing advisory support.
 
-●  Grow digital adoption gradually through guided onboarding and hybrid agent-support, rather than replacing human interaction.
+● Position POL2005HEL as a flagship policy, while redesigning or repositioning low-adoption policies such as POL4321HEL, so revenue is distributed across a broader product mix.
 
-●  Position POL2005HEL as a flagship policy, while reviewing low-adoption policies such as POL4321HEL for optimization or repositioning.
+● Improve awareness and positioning of other products so revenue dependency on the Top 3 policies reduces over time.
 
-●  Target customers aged 31–50 for scalable growth, while designing premium-value offerings for 51–64 and 65+ customers who purchase higher-value policies.
-
-●  Reduce business dependency on the Top 3 policies by improving adoption of other insurance products.
+● Target customers aged 31–50 for scalable acquisition, while designing premium-value offerings for customers aged 51–64 and 65+ who typically purchase higher-coverage plans.
 
 ## 🧠 What I Learned
 
-●  How to convert business requirements into clear KPIs
+●  How to translate business requirements into measurable KPIs
 
-●  Why a solid data model is critical before building dashboards
+●  Why a strong data model is critical before dashboard design
 
-●  How to design visuals that answer leadership-level questions
+●  How to communicate insights in a way leadership can act on
 
 This project helped me move beyond just building dashboards and start thinking like an analyst, focusing on defining the right KPIs, structuring the data correctly, and designing visuals that support real decision-making.
 
