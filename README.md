@@ -2,7 +2,7 @@
 
 ## 🏢 Company Overview
 
-Shield Insurance is a general insurance provider focused on delivering customer-centric financial protection. The company operates across key metros including Delhi NCR, Mumbai, Hyderabad, Chennai and Indore. Policies are distributed through multiple channels such as offline agents, direct sales, mobile apps and web platforms, serving customers across different age groups and financial needs.
+Shield Insurance is a customer-focused general insurance provider operating across multiple urban markets in India. The company operates across key metros including Delhi NCR, Mumbai, Hyderabad, Chennai and Indore. Policies are distributed through multiple channels such as offline agents, direct sales, mobile apps and web platforms, serving customers across different age groups and financial needs.
 
 ## 🚩 Problem Statement
 
