@@ -52,7 +52,7 @@ fact_settlements
 
 ## 🏠 Home Page
 
-<img width="1433" height="806" alt="Home page" src="https://github.com/user-attachments/assets/3ac0c967-0e58-44d4-83d0-a9d5c940a608" />
+<img width="1480" height="833" alt="Home page " src="https://github.com/user-attachments/assets/a7736a4a-7796-49d1-ba4a-523a256ae93b" />
 
 ## 📈 Overview
 
