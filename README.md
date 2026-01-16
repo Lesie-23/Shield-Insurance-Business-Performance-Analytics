@@ -105,7 +105,7 @@ This project helped me move beyond just building dashboards and start thinking l
 
 ## Links
 
-## **[Live Dashboard](https://app.powerbi.com/groups/me/reports/99dcb080-8d0a-4f3b-b0cb-300d80d7ef1c/75113cf0c0a080eb2924?experience=power-bi)**
+## [**[Live Dashboard](https://app.powerbi.com/groups/me/reports/99dcb080-8d0a-4f3b-b0cb-300d80d7ef1c/75113cf0c0a080eb2924?experience=power-bi)**](https://app.powerbi.com/view?r=eyJrIjoiMjQyMTc5NjAtYTc3My00M2EzLWE4ODMtODFkODE2YWFhODBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
